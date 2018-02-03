@@ -1,4 +1,4 @@
-# discord logger v1.0.0
+# discord logger
 
 
 ## Dependency

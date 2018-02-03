@@ -1,6 +1,6 @@
 {
   "name": "discord-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Log events from nodejs to discord using webhooks",
   "repository": {
     "type": "git",

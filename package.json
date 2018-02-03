@@ -1,0 +1,20 @@
+{
+  "name": "discord-logger",
+  "version": "1.0.0",
+  "description": "Log events from nodejs to discord using webhooks",
+  "main": "./lib/discord-logger",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Discord",
+    "webhook",
+    "logger",
+    "bot"
+  ],
+  "author": "maleta <maleta.ub@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": ">=2.0.0"
+  }
+}

@@ -20,9 +20,9 @@ const DiscordLogger = require('discord-logger');
 const options = {
   endpoint: process.env.DISCORD_WEBHOOK,
   botUsername: 'my app logger'
-  infoPrefix: :information_source: // optional, default value is :information_source:,
-  successPrefix: :white_check_mark: // optional, default value is :white_check_mark:,
-  errorPrefix: :sos: // optional, default value is :sos:
+  infoPrefix: ':information_source:' // optional, default value is :information_source:,
+  successPrefix: ':white_check_mark:' // optional, default value is :white_check_mark:,
+  errorPrefix: ':sos:' // optional, default value is :sos:
 }
 
 const logger = new DiscordLogger(options);
